@@ -903,6 +903,10 @@ items:
       items:
       - name: Closed captions overview
         href: concepts/interop/enable-closed-captions.md
+    - name: Real Time Text
+      items:
+      - name: Real Time Text overview
+        href: concepts/voice-video-calling/real-time-text.md
     - name: UI Library
       items:
       - name: UI Library overview
